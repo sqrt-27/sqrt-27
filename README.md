@@ -1,6 +1,5 @@
 
-## Hello!
-### I'm sqrt27!
+## Hello! I'm `sqrt(27)`!
 
  - head empty, zero thoughts
 <!--
